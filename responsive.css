@@ -18,6 +18,7 @@
     padding-right: auto;
   }
   .btntop-wrapper{
+    width: 75%;
     margin-bottom: 5px;
     padding: 8px 16px;
     font-size: 20px;
@@ -77,6 +78,7 @@
     padding-right: auto;
   }
   .btntop-wrapper{
+    width: 75%;
     margin-bottom: 5px;
     padding: 8px 16px;
     font-size: 20px;
